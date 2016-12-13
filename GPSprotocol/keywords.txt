@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For GPSprotocol
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+GPSprotocol	KEYWORD2
+send		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SYNC		LITERAL1
+START		LITERAL1
+SHORT		LITERAL1
+LONG		LITERAL1
+
