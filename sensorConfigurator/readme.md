@@ -12,6 +12,6 @@ zorgen over te maken.
 Dit programma werkt alleen in samenwerking met het programma
 "ClockGenerator10kHz"!
 
-Het headerfile "mySensor.h" moet onder de Arduino IDE map
-"/Library/mySensor/" worden geplaats (zie het hoofdstuk
+Het headerfile "mySensors.h" moet onder de Arduino IDE map
+"(Arduino)/Library/mySensors/" worden geplaats (zie het hoofdstuk
 "Atmel AVR Microprocessoren tunen")
