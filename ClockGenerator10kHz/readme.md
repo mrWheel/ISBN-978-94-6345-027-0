@@ -15,3 +15,6 @@ RC-oscillator te fine-tunen tot op een nauwkeurigheid van
 maken van de nauwkeurigheid van een Arduino boardje. 
 De originele boardjes zijn uitgerust met een crystal van 
 16MHz of 20MHz die een nauwkeurigheid heeft van ongeveer ±0,1%. 
+
+Dit programma doet zijn werk alleen in combinatie met het programma
+"sensorConfigurator" zoals beschreven in het hoofdstuk "Atmel AVR Microprocessoren tunen"
