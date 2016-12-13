@@ -1,4 +1,5 @@
 MARCH 28, 2012 AT 12:09 PM
+
 It’s not the license we choose, it’s the communities we build
 
 It’s not the license we choose, it’s the communities we build. In open source hardware and software circles a lot of time is devoted to figuring out the best license. For license enthusiasts this is a passionate topic with unlimited debate on mailing lists, for folks shipping open-source hardware, the majority of shipping Open-source hardware still uses Creative Commons-Share-Alike-Attribution to display their intent. Maybe that will change one day as new licenses are written.
