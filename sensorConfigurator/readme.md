@@ -8,3 +8,10 @@ EEPROM geheugen van de chip. Hierdoor hoeven we deze gegevens
 per chip maar één maal vast te leggen en kunnen we de AVR 
 daarna steeds opnieuw programmeren zonder ons hier verder nog 
 zorgen over te maken.
+
+Dit programma werkt alleen in samenwerking met het programma
+"ClockGenerator10kHz"!
+
+Het headerfile "mySensor.h" moet onder de Arduino IDE map
+"/Library/mySensor/" worden geplaats (zie het hoofdstuk
+"Atmel AVR Microprocessoren tunen")
