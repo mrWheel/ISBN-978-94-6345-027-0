@@ -23,7 +23,7 @@ ik screenshots van de oscilloscoop zodat je inzicht krijgt in deze zaken.
 Je hoeft deze metingen niet na te doen en je hebt dus ook geen dure 
 apparatuur nodig.
 
-In de rest van dit boek ga ik ervan uit dat je basiskennis hebt van de 
+In dit boek ga ik ervan uit dat je basiskennis hebt van de 
 Arduino IDE en met één of meer Arduino boards (zoals de UNO, Genuine Mega, 
 Leonardo). Ook ga ik er van uit dat de je ervaring hebt met het 
 programmeren van de Arduino boards. Dit kan bestaan uit het uitproberen, 
@@ -31,7 +31,3 @@ en liefst ook aanpassen, van de voorbeeld programma’s die meegeleverd
 worden met de Arduino IDE. Nog mooier is het als je ervaring hebt met het 
 zelfstandig ontwikkelen van (eenvoudige) programma’s binnen het Arduino 
 eco-systeem.
-
-Dit boek is géén cursus C of C++, daar zijn voldoende boeken over 
-geschreven. Wel stippen we het gebruik van macro’s aan.
-
