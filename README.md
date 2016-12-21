@@ -1,7 +1,6 @@
-De programma's in de repository horen bij het boek "Zelf Draadloze 
-Sensoren maken met Microprocessoren en Arduino".
-Het boek (ISBN 978-94-6345-027-0) is
-
+<p>De programma's in de repository horen bij het boek "<i><b>Zelf Draadloze 
+Sensoren maken met Microprocessoren en Arduino</b></i>".
+</p>
 <p>
 <img src="https://cloud.githubusercontent.com/assets/5585427/21386969/c53f4ec8-c775-11e6-9ab0-8da90a5df4f8.png" width="300"  alt="BookCover" border="5" align="left"/>
 Je kunt het boek (ISBN 978-94-6345-027-0) bij de boekhandel kopen of via deze website bestellen door op de knop [Koop nu] te klikken (je wordt dan doorgeleid naar <em>www.boekenbestellen.nl</em>)!
