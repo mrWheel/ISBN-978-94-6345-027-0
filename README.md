@@ -10,8 +10,6 @@ op met kleine microprocessoren (ATtiny serie van Atmel). De modules om de
 gegevens op te vangen en te verwerken worden met krachtigere 
 microprocessoren gemaakt (Arduino of Teensy).
 
-https://cloud.githubusercontent.com/assets/5585427/21386705/5d0a5a92-c774-11e6-88f1-af2cf3dbb364.png
-
 Er is over dit onderwerp heel veel te vinden op het World Wide Web, maar 
 deze informatie is óf te technisch óf gaat van heel veel voorkennis uit óf 
 gaat alleen over de hardware óf juist alleen over de software. Voor de 
@@ -33,3 +31,5 @@ en liefst ook aanpassen, van de voorbeeld programma’s die meegeleverd
 worden met de Arduino IDE. Nog mooier is het als je ervaring hebt met het 
 zelfstandig ontwikkelen van (eenvoudige) programma’s binnen het Arduino 
 eco-systeem.
+
+![Alt text](https://cloud.githubusercontent.com/assets/5585427/21386705/5d0a5a92-c774-11e6-88f1-af2cf3dbb364.png?raw=true "BME280 Sensor Module")
