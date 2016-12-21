@@ -2,7 +2,9 @@ De programma's in de repository horen bij het boek "Zelf Draadloze
 Sensoren maken met Microprocessoren en Arduino" (ISBN 978-94-6345-027-0)
 dat binnenkort te koop is.
 
-<img src="https://cloud.githubusercontent.com/assets/5585427/21386969/c53f4ec8-c775-11e6-9ab0-8da90a5df4f8.png" width=300 align=center />
+<p align="center">
+<img src="https://cloud.githubusercontent.com/assets/5585427/21386969/c53f4ec8-c775-11e6-9ab0-8da90a5df4f8.png" width="300"  alt="BookCover" border="5" />
+</p>
 
 In dit boek lees je hoe je zelf draadloze sensoren kunt maken en hoe je de 
 signalen ervan kunt opvangen en verwerken om bijvoorbeeld 
