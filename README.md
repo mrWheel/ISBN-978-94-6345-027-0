@@ -1,4 +1,4 @@
-<p>De programma's in de repository horen bij het boek "<i><b>Zelf Draadloze 
+<p>De programma's in deze repository horen bij het boek "<i><b>Zelf Draadloze 
 Sensoren maken met Microprocessoren en Arduino</b></i>".
 </p>
 <p>
