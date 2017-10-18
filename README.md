@@ -4,7 +4,7 @@ Sensoren maken met Microprocessoren en Arduino</b></i>".
 <p>
 <img src="https://cloud.githubusercontent.com/assets/5585427/21386969/c53f4ec8-c775-11e6-9ab0-8da90a5df4f8.png" width="300"  alt="BookCover" border="2" align="left"/>
 Je kunt het boek (ISBN 978-94-6345-027-0) bij de boekhandel kopen of via <i>www&middot;boekbestellen&middot;nl</i> bestellen door op de onderstaande knop te klikken!<br>
-<a href="https://www.boekenbestellen.nl/shop/winkelwagen/add/1/19765/1" target="_blank" rel="nofollow"><img src="https://www.boekenbestellen.nl/open-social/website/buynow/btn_buynow_k_blue.png" border="0" style="cursor:pointer"/></a>
+<a href="https://www.boekenbestellen.nl/boek/zelf-draadloze-sensoren-maken-met-microprocessoren-en-arduino/9789463450270" target="_blank" rel="nofollow"><img src="https://www.boekenbestellen.nl/open-social/website/buynow/btn_buynow_k_blue.png" border="0" style="cursor:pointer"/></a>
 </p>
 
 In dit boek lees je hoe je zelf draadloze sensoren kunt maken en hoe je de 
